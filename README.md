@@ -1,0 +1,2 @@
+So the goal is to make this the best recipe site project once I master the web dev through TOP.
+I will be making notes and updates to this file so that I would know what major features I added and what I might wanna add in the future and also to understand and keep track of my thought process throughout the project.
