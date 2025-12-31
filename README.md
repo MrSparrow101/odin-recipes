@@ -1,2 +1,2 @@
 # odin-recipes
-So this is a basic recipes website project that I intend to build into the most beautiful recipes website once I learn everything about web developement. For now tho, I'll start with a basic HTML webpage with a few recipes and build on that foundation and add some good style from css and functionality from javascript. 
+So this is a basic recipes website project that I intend to build into the most beautiful recipes website once I learn everything about web developement. For now tho, I'll start with a basic HTML webpage with a few recipes and build on that foundation and add some good style from css and functionality from javascript.
