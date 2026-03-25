@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: white;
+    background-color: bisque;
+    display: inline-block;
+}
+
+.biryani {
+    padding: 10px;
+    background-color: rgb(110, 196, 156);
+    border: 1px dotted lightgreen;
+    display: inline-block;
+    margin: 10px;
+}
+
+.lasagna {
+    padding: 10px;
+    background-color: rgb(198, 216, 168);
+    border: 1px dotted rgb(18, 69, 80);
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.mac {
+    padding: 10px;
+    background-color: rgb(81, 101, 94);
+    border: 1px dotted rgb(42, 49, 22);
+    display: inline-block;
+    margin: 10px;
+}
+}
